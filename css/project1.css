@@ -235,8 +235,8 @@ color:orange;
 
 }
 .bardiv{
-padding-top: 16%;
-transform: translateX(4%);
+padding-top: 8%;
+
 display: none;
 animation: bardiv .3s ease-in-out 1;
 }
